@@ -85,3 +85,4 @@ docker compose up --build
 ```
 
 Then open http://localhost:8000 in your browser.
+Or http://localhost:5050 for viewing the Page Admin.
